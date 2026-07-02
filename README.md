@@ -12,7 +12,7 @@ Welcome to the official repository presentation for **RaqmiCash**, a production-
 
 ## 👤 Portfolio Significance & Lead Architect Role
 * **Role**: **Lead Systems Architect & AI Orchestrator**
-* **Active Scale & Traction**: Used daily by **400+ active retail stores & merchant outlets (Hanout)** across Morocco, processing high-volume daily recharges and transactions.
+* **Active Scale & Traction**: Used daily by **400+ active retail stores & merchant outlets (Hanout)** across Morocco, processing over **10,000+ (10K+) daily transactions** and telecom recharges.
 * **Engineering Impact**: 
   - Designed the entire database schema, telecom integration logic, and predictive financial models.
   - Guided, review-checked, and orchestrated AI coding agents to implement clean, secure, and production-grade Laravel code.
