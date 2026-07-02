@@ -21,10 +21,11 @@ Welcome to the official repository presentation for **RaqmiCash**, a production-
 ---
 
 ## 📌 Live Demo & Access Note
-> [!IMPORTANT]  
-> **VPN Access Requirement**  
-> To protect sensitive transactional data and ensure strict database safety, the live demo system and administration dashboard are shielded behind a secure enterprise VPN gateway. 
-> To review the active dashboard, please establish a connection to the staging/production VPN before accessing the URL.
+* **Live Application URL**: **[https://raqmicash.com](https://raqmicash.com)**
+* **Access Requirements (Geo-Restricted)**:
+  > [!IMPORTANT]  
+  > To ensure platform security and database safety, access to the live system is **restricted to Moroccan IP addresses only**.
+  > If you are accessing the link from outside Morocco, you **must use a VPN** configured with a Moroccan server. We recommend downloading and using the free **Urban VPN** desktop application or browser extension and choosing **"Morocco"** as your location before navigating to the site.
 
 ---
 
