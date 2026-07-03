@@ -59,6 +59,7 @@ Welcome to the official repository presentation for **RaqmiCash**, a production-
 
 ### 6. 💬 Help Desk & Ticketing
 * **Built-in Support Ticket System**: In-app ticketing system linking retailers directly with system admins.
+* **Real-time Reclamation Tracking on Receipts**: Live synchronization showing complaint status (En cours / Résolue / Clôturée) directly on printed client receipts (reçus) and operational history tables.
 * **Canned Responses**: Support desk templates to expedite issue resolution.
 
 ---
